@@ -17,7 +17,7 @@ data class TodoResponse(
 
 @Entity(tableName = "todos")
 data class TodoEntity(
-
+    @PrimaryKey
     val id: Int,
     val todo: String,
     val completed: Boolean,
