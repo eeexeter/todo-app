@@ -1,0 +1,23 @@
+# Android Studio
+*.iml
+.idea/
+
+# Gradle
+.gradle/
+
+# Local configuration file
+local.properties
+
+# Build files
+/build
+**/build/
+
+# Native build
+.externalNativeBuild
+.cxx/
+
+# OS files
+.DS_Store
+
+# Captures
+captures/
