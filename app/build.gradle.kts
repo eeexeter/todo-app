@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.basic_template"
+    namespace = "com.exeter.todoapp"
     compileSdk {
         version = release(36)
     }

@@ -1,4 +1,4 @@
-package com.example.basic_template
+package com.exeter.todoapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

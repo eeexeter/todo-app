@@ -1,4 +1,4 @@
-package com.example.basic_template
+package com.exeter.todoapp
 
 import org.junit.Test
 
